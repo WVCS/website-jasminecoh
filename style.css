@@ -1,13 +1,14 @@
 h1 {
-  color: #ffeef2 ;
-   text-decoration: underline dotted 8px #fff8d6;
+  color: #fff1e6 ;
+   text-decoration: underline dotted 8px #fec5bb;
   letter-spacing: 6px;
-  word-spacing: 3px
-text-shadow: 2px 2px 5px red; 
+  word-spacing: 3px;
+    line-spacing: 10px;
+text-shadow: 2px 2px 5px pink; 
 }
 
 body {
-  background-color: #f5cac3;
+  background-color: #fcd5ce;
 }
 
 img:hover{
