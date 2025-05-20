@@ -1,3 +1,17 @@
-body {
+h1 {
+  color: #ffeef2 ;
+   text-decoration: underline dotted 8px #fff8d6;
+  letter-spacing: 6px;
+  word-spacing: 3px
+text-shadow: 2px 2px 5px red; 
+}
 
+body {
+  background-color: #f5cac3;
+}
+
+img:hover{
+  width: 300px;
+  border-radius: 50%;
+  border: 5px dotted purple;
 }
