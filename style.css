@@ -1,5 +1,27 @@
+nav{
+  list-style-type: none;
+  width:100%;
+  background-color: #a5a58d;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  color: beige;
+  text-decoration: none;
+  display: block;
+  padding: 15px 50px;
+  float: left;
+}
+
+li a:hover {
+  background-color: beige;
+  color: black;
+  
+}
 h1 {
-  color: #fff1e6 ;
+  color: #87986a ;
    text-decoration: underline dotted 8px #fec5bb;
   letter-spacing: 6px;
   word-spacing: 3px;
@@ -8,7 +30,7 @@ text-shadow: 2px 2px 5px pink;
 }
 
 body {
-  background-color: #fcd5ce;
+  background-color: #fefae0;
 }
 
 img:hover{
